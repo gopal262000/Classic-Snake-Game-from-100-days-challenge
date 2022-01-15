@@ -7,4 +7,5 @@ Controls
 -"a" to go LEFT
 -"d" to go RIGHT
 
-have fun! playing the Game
+have fun! playing the Game and contribute to the betterment
+
